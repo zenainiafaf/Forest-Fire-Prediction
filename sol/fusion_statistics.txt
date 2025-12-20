@@ -1,0 +1,28 @@
+================================================================================
+RAPPORT DE FUSION FIRE + SOIL
+================================================================================
+
+DONNÉES D'ENTRÉE
+  • Points FIRE : 140,165
+  • Points SOIL : 25,000
+
+RÉSULTATS
+  • Total points conservés : 140,165 (100%)
+  • Match direct (<0.1°) : 140,164 (100.0%)
+  • Interpolation IDW : 1 (0.0%)
+
+PARAMÈTRES
+  • K voisins : 5
+  • Puissance IDW : 2
+  • Seuil distance : 0.1° (~11.1 km)
+
+DISTANCES K-NN
+  • Minimale : 0.000083° (~0.01 km)
+  • Maximale : 0.104215° (~11.57 km)
+  • Moyenne  : 0.023043° (~2.56 km)
+  • Médiane  : 0.021510° (~2.39 km)
+
+COLONNES
+  • Total : 15
+  • Numériques interpolées : 9
+  • Catégorielles (K-NN) : 0
