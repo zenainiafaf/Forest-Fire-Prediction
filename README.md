@@ -18,8 +18,6 @@ The project covers the complete workflow, including:
 - Model evaluation
 - Result visualization
 
-This project was developed as part of the **Data Mining** course (M2 Artificial Intelligence and Data Science, USTHB, 2025–2026).
-
 ---
 
 ## 🚀 Features
